@@ -10,23 +10,18 @@ using System.Windows.Forms;
 
 namespace QuanLyDangKyHocPhan
 {
-    public partial class frmHome : Form
+    public partial class Login : Form
     {
-        public frmHome()
+        public Login()
         {
             InitializeComponent();
         }
 
-        private void btnLogin_Click(object sender, EventArgs e)
+        private void btnHuy_Click(object sender, EventArgs e)
         {
-            Login dangNhap = new Login();
-            dangNhap.Show();
+            frmHome home = new frmHome();
+            home.Show();
             this.Visible = false;
-        }
-
-        private void frmHome_FormClosing(object sender, FormClosingEventArgs e)
-        {
-
         }
     }
 }
