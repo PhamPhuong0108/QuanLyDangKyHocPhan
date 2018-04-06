@@ -1,6 +1,6 @@
 ﻿namespace QuanLyDangKyHocPhan
 {
-    partial class Form1
+    partial class frmHome
     {
         /// <summary>
         /// Required designer variable.
@@ -28,9 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // frmHome
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(898, 553);
+            this.Name = "frmHome";
+            this.Text = "QUẢN LÝ ĐĂNG KÝ HỌC PHẦN";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
