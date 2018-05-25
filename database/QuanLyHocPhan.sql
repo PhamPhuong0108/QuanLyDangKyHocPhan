@@ -1,4 +1,4 @@
-CREATE DATABASE db_QuanLyDangKyHocPhan
+/*CREATE DATABASE db_QuanLyDangKyHocPhan
 GO
 
 /**Tao bang **/
@@ -68,9 +68,15 @@ CREATE TABLE nguoidung(
 	MatKhau NVARCHAR(32),
 	MaQuyenHan INT,
 	Foreign key(MaQuyenHan) References quyenhan(MaQuyenHan)
-);
+);*/
 
 /* STORED PROCEDURES */
+create proc layDanhSachQuyenHan
+as
+begin
+	select * from quyenhan
+end;
+
 
 
 

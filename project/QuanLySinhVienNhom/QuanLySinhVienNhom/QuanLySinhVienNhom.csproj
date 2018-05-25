@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8F081975-0957-41F7-8899-1E772920405B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLySinhVienNhom</RootNamespace>
+    <AssemblyName>QuanLySinhVienNhom</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="db_Connect.cs" />
+    <Compile Include="frmDangkymonhoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangkymonhoc.Designer.cs">
+      <DependentUpon>frmDangkymonhoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFormchinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFormchinh.Designer.cs">
+      <DependentUpon>frmFormchinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLophoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLophoc.Designer.cs">
+      <DependentUpon>frmLophoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhapdiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhapdiem.Designer.cs">
+      <DependentUpon>frmNhapdiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhapGVvaSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhapGVvaSV.Designer.cs">
+      <DependentUpon>frmNhapGVvaSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhapKhoaNganhMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhapKhoaNganhMon.Designer.cs">
+      <DependentUpon>frmNhapKhoaNganhMon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhancong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhancong.Designer.cs">
+      <DependentUpon>frmPhancong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongtinGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongtinGV.Designer.cs">
+      <DependentUpon>frmThongtinGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongtinSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongtinSV.Designer.cs">
+      <DependentUpon>frmThongtinSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewdiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewdiem.Designer.cs">
+      <DependentUpon>frmViewdiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewmonhocsv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewmonhocsv.Designer.cs">
+      <DependentUpon>frmViewmonhocsv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmDangkymonhoc.resx">
+      <DependentUpon>frmDangkymonhoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFormchinh.resx">
+      <DependentUpon>frmFormchinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLophoc.resx">
+      <DependentUpon>frmLophoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhapdiem.resx">
+      <DependentUpon>frmNhapdiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhapGVvaSV.resx">
+      <DependentUpon>frmNhapGVvaSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhapKhoaNganhMon.resx">
+      <DependentUpon>frmNhapKhoaNganhMon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhancong.resx">
+      <DependentUpon>frmPhancong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongtinGV.resx">
+      <DependentUpon>frmThongtinGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongtinSV.resx">
+      <DependentUpon>frmThongtinSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewdiem.resx">
+      <DependentUpon>frmViewdiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewmonhocsv.resx">
+      <DependentUpon>frmViewmonhocsv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help_Shield_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images_icon\if_view_126581.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images_icon\if_ic_input_48px_352433.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images_icon\if_update_172618.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images_icon\if_Student-3_379383.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images_icon\if_admin_87402.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images_icon\if_Rounded-31_2024644.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images_icon\if_exit_11070.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images_icon\if_Login_73221.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images_icon\if_Calendersvg_1579797.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title form.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small form.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\175_inpage-standing-woman.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\school-acctg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\let-us-bg-white-contact.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1475525532intro-bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books-BKG-cropped1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

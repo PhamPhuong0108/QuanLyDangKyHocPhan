@@ -1,0 +1,97 @@
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.exe
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.pdb
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmHome.resources
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmlogin.resources
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.Properties.Resources.resources
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.csproj.GenerateResource.Cache
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.exe
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.pdb
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.exe.config
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmThongtinsv.resources
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmThongtinGV.resources
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapGVvaSV.resources
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapKhoaNganhMon.resources
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.csprojResolveAssemblyReference.cache
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmPhancong.resources
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmLophoc.resources
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapdiem.resources
+C:\Users\kiems\Downloads\BAI TAP\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmViewmonhocsv.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.exe.config
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.exe
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.pdb
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.exe
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.pdb
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmHome.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmlogin.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmLophoc.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapdiem.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapGVvaSV.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapKhoaNganhMon.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmPhancong.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmThongtinGV.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmThongtinSV.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmViewmonhocsv.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.Properties.Resources.resources
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\BÀI TẬP C#\doan\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.exe.config
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.exe
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.pdb
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.exe
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.pdb
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.csprojResolveAssemblyReference.cache
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmHome.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmlogin.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmLophoc.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapdiem.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapGVvaSV.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapKhoaNganhMon.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmPhancong.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmThongtinGV.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmThongtinSV.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmViewmonhocsv.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.Properties.Resources.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.csproj.GenerateResource.Cache
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmDangkymonhoc.resources
+C:\Users\kiems\Downloads\SOURCES C++ 2010\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmViewdiem.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.exe.config
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.exe
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.pdb
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.exe
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.pdb
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.csprojResolveAssemblyReference.cache
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmDangkymonhoc.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmHome.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmlogin.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmLophoc.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapdiem.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapGVvaSV.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapKhoaNganhMon.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmPhancong.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmThongtinGV.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmThongtinSV.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmViewdiem.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmViewmonhocsv.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.Properties.Resources.resources
+E:\Study_Documents\Study\LapTrinhUngDung\New folder\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.csproj.GenerateResource.Cache
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.exe.config
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.exe
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.pdb
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.exe
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\bin\Debug\QuanLySinhVienNhom.pdb
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.csprojResolveAssemblyReference.cache
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmDangkymonhoc.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmHome.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmlogin.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmLophoc.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapdiem.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapGVvaSV.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmNhapKhoaNganhMon.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmPhancong.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmThongtinGV.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmThongtinSV.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmViewdiem.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.frmViewmonhocsv.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.Properties.Resources.resources
+E:\Study_Documents\Study\LapTrinhUngDung\Project\QuanLySinhVienNhom\QuanLySinhVienNhom\obj\x86\Debug\QuanLySinhVienNhom.csproj.GenerateResource.Cache
